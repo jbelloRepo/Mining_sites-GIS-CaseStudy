@@ -1,5 +1,5 @@
 <!-- # Mining_sites-GIS-CaseStudy -->
-Geospatial analysis
+<!-- Geospatial analysis -->
 
 # Artisanal Mining Sites Case Study
 
