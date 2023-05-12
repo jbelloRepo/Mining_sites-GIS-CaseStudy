@@ -2,7 +2,9 @@
 
 # Artisanal Mining Sites Case Study
 
-<img src="path/to/logo.png" alt="Project Logo">
+<img src="Mining_sites-GIS-CaseStudy\logo.png" alt="Project Logo">
+![Project Logo](logo.png)
+![Project Logo](Mining_sites-GIS-CaseStudy/logo.png)
 
 > Uncover the hidden world of artisanal mining sites in Eastern Congo while exploring new spatial operations and gaining insights into custom spatial operations. Get a sneak preview into raster data and its applications.
 
