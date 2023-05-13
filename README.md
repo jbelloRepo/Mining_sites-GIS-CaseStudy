@@ -29,7 +29,7 @@ By diving into this case study, you'll not only explore the rich world of artisa
 ## Installation
 
 1. Clone the repository: `<code>git clone https://github.com/username/repo.git</code>`
-2. Navigate to the project directory: `<code>cd GIS-case-study.ipynb</code>`
+2. Navigate to the project directory: Navigate to the project directory: [cd GIS-case-study.ipynb](GIS-case-study.ipynb)
 3. Install the required dependencies: `<code> pip install geopandas</code>`
 
 ## Usage
