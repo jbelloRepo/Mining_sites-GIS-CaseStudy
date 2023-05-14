@@ -1,6 +1,6 @@
 <!-- # Mining_sites-GIS-CaseStudy -->
-
-# Artisanal Mining Sites Case Study
+![alt text](logo2.png "Title") 
+# [Artisanal Mining Sites Case Study](GIS-case-study.ipynb)
 
 > Uncover the hidden world of artisanal mining sites in Eastern Congo while exploring new spatial operations and gaining insights into custom spatial operations. Get a sneak preview into raster data and its applications.
 
@@ -11,6 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Acknowledgement](#acknowledgement)
 - [License](#license)
 
 ## Overview
@@ -34,14 +35,19 @@ By diving into this case study, you'll not only explore the rich world of artisa
 
 ## Usage
 
-1. Open the project in your preferred code editor.
-2. Configure the necessary settings in the `config.js` file to adapt the analysis to your specific needs.
-3. Run the application: `<code>npm start</code>`
-4. Follow the on-screen instructions to navigate through the case study and explore the spatial operations.
+1. Open the project in your VS code editor.
+2. Run the application: Press the play button in the top right corner in VS Code
+3. Run individual code cells or all the cells at once
+4. Examine the output of each code cell
 
 ## Contributing
 
 We welcome contributions from the community to enhance the Artisanal Mining Sites Case Study. If you have any ideas, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+
+## Acknowledgement
+This project draws inspiration from the [Working with Geospatial Data in Python](https://campus.datacamp.com/courses/working-with-geospatial-data-in-python/introduction-to-geospatial-vector-data?ex=1) course on DataCamp. <br>
+**Open Dataset:**
+[National Parks of Congo Open Dataset](https://open.africa/dataset/democratic-republic-of-the-congo-protected-areas-2016/resource/be9ce095-3844-4dca-9272-ef4d9b5dc70e?inner_span=True)
 
 ## License
 
