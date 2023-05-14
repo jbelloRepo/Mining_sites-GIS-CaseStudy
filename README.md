@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+- [==> See Case Study Here](GIS-case-study.ipynb)
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
@@ -16,7 +17,7 @@
 
 ## Overview
 
-Welcome to the Artisanal Mining Sites Case Study! This project takes you on an immersive journey into the captivating realm of artisanal mining sites located in Eastern Congo. Through this case study, you will gain a deep understanding of the challenges, complexities, and dynamics surrounding artisanal mining.
+Welcome to the [Artisanal Mining Sites Case Study!](GIS-case-study.ipynb) This project takes you on an immersive journey into the captivating realm of artisanal mining sites located in Eastern Congo. Through this case study, you will gain a deep understanding of the challenges, complexities, and dynamics surrounding artisanal mining.
 
 By diving into this case study, you'll not only explore the rich world of artisanal mining but also discover new spatial operations that can be applied to analyze and visualize geographic data. This project offers you a unique opportunity to broaden your skills and knowledge in spatial analysis. 
 
@@ -30,7 +31,7 @@ By diving into this case study, you'll not only explore the rich world of artisa
 ## Installation
 
 1. Clone the repository: `<code>git clone https://github.com/username/repo.git</code>`
-2. Navigate to the project directory: Navigate to the project directory: [cd GIS-case-study.ipynb](GIS-case-study.ipynb)
+2. Navigate to the project directory: [cd GIS-case-study.ipynb](GIS-case-study.ipynb)
 3. Install the required dependencies: `<code> pip install geopandas</code>`
 
 ## Usage
